@@ -1,1 +1,1 @@
-print("ET0735 - DevOps is a DCPW module")
+print("ET0735 - DevOps for AIOT")
